@@ -1,0 +1,23 @@
+ACME CORP - REMOTE WORK POLICY
+Version 3.2, effective 1 January 2025
+
+1. Purpose
+This policy explains when and how employees of Acme Corp may work remotely. It applies to all full-time and part-time employees. Contractors follow the terms of their own agreements.
+
+2. Eligibility
+Employees become eligible for remote work after completing their 90-day probation period. Employees in their probation period must work from the office. Roles that require physical presence, such as warehouse and reception staff, are not eligible for remote work.
+
+3. Remote Work Schedule
+Eligible employees may work remotely up to 3 days per week. Every team must have at least 2 core office days each week, which are Tuesday and Thursday by default. Managers may approve a fully remote arrangement only with written approval from the department head.
+
+4. Working Hours
+Remote employees must be available during core hours, which are 10:00 to 15:00 in their local time zone. Employees must update their calendar and chat status to show when they are unavailable.
+
+5. Equipment and Allowances
+Acme Corp provides a laptop and one external monitor to every remote employee. Employees receive a one-time home office stipend of 500 USD to buy a desk, chair or other furniture. A monthly internet allowance of 40 USD is paid with the regular payroll. Equipment must be returned within 14 days after employment ends.
+
+6. Working from Abroad
+Employees may work from another country for up to 20 working days per calendar year. Requests must be submitted to HR at least 30 days in advance because of tax and legal checks. Working from abroad without approval is a policy violation.
+
+7. Data Protection
+Remote employees must use the company VPN when accessing internal systems. Confidential documents must not be printed at home or saved on personal devices. Employees must lock their screen whenever they leave their workstation.

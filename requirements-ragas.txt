@@ -1,0 +1,26 @@
+# OPTIONAL extra for the RAGAS evaluation (qa/ragas_eval.py). The app and its tests work without it.
+#
+#   python -m pip install -r requirements-ragas.txt
+#   python -m pip install --no-deps "ragas==0.4.3"
+#
+# Why two commands: ragas lists `scikit-network`, which it uses only for synthetic test-set generation (not used
+# here) and which has no prebuilt wheel for Python 3.14, so pip would try to compile it and fail without the
+# Microsoft C++ Build Tools. Installing ragas with --no-deps and listing its other dependencies below avoids that.
+#
+# Why langchain < 0.4: ragas 0.4.x imports langchain_community.chat_models.vertexai, which langchain-community
+# 0.4 removed. Do NOT add langchain-anthropic: its 0.3 series downgrades the `anthropic` SDK this project uses.
+#
+# Needs a Windows/Python setup that can load pyarrow's dataset DLL (Windows Smart App Control can block it).
+datasets>=4.0.0
+tiktoken
+nest-asyncio
+appdirs
+diskcache>=5.6.3
+instructor
+networkx
+openai>=1.0.0
+pillow>=10.4.0
+langchain>=0.3,<0.4
+langchain-core>=0.3,<0.4
+langchain-community>=0.3,<0.4
+langchain-openai>=0.3,<0.4

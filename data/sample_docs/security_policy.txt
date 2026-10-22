@@ -1,0 +1,23 @@
+ACME CORP - INFORMATION SECURITY POLICY
+Version 4.0, effective 15 February 2025
+
+1. Passwords
+Passwords must contain at least 14 characters. Passwords must be changed every 180 days, or immediately if a compromise is suspected. Employees must not reuse their last 12 passwords. Passwords must never be shared or written on paper.
+
+2. Multi-Factor Authentication
+Multi-factor authentication (MFA) is mandatory for email, VPN, the HR system and all cloud consoles. Hardware security keys are required for administrators. SMS codes are allowed only as a temporary fallback for up to 7 days.
+
+3. Reporting Security Incidents
+Any suspected security incident, such as a phishing email, a lost laptop or unauthorised access, must be reported to the Security Operations team within 1 hour of discovery. Reports are made by phone on extension 5555 or by email to security@acme.example. Employees must not try to investigate the incident on their own.
+
+4. Data Classification
+Company data is classified as Public, Internal, Confidential or Restricted. Confidential and Restricted data must be encrypted at rest and in transit. Restricted data, such as customer payment details, may only be accessed by named individuals on the approved access list.
+
+5. Device Security
+All laptops use full-disk encryption. Operating system updates must be installed within 14 days of release. Lost or stolen devices are remotely wiped by IT. USB storage devices are blocked by default.
+
+6. Backups and Retention
+Production databases are backed up every 24 hours and backups are retained for 35 days. Security logs are retained for 12 months. Backup restores are tested every quarter.
+
+7. Security Training
+All employees complete security awareness training during their first week and then once every year. Employees who fail the simulated phishing test twice in a year must repeat the training.

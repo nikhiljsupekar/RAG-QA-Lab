@@ -1,0 +1,7 @@
+[server]
+# Streamlit's source watcher imports every transformers submodule and logs a traceback for each one that
+# needs an optional package (torchvision). Harmless but noisy, so it is off. Restart the app after editing code.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

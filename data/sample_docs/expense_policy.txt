@@ -1,0 +1,26 @@
+ACME CORP - EXPENSE REIMBURSEMENT POLICY
+Version 2.4, effective 1 March 2025
+
+1. Scope
+This policy covers business expenses paid by employees with personal funds. Expenses paid with a company card follow the same rules for documentation.
+
+2. Submission Deadline
+Expense reports must be submitted within 30 days of the date of the expense. Reports submitted after 30 days require written approval from the finance director and may be rejected.
+
+3. Receipts
+A receipt is required for every expense above 25 USD. For expenses of 25 USD or less, a short description of the business purpose is enough. Credit card statements alone are not accepted as receipts.
+
+4. Approval Limits
+Expenses up to 500 USD are approved by the employee's direct manager. Expenses from 501 USD to 5,000 USD require approval from the department head. Expenses above 5,000 USD require approval from the Chief Financial Officer before the purchase is made.
+
+5. Meals
+The daily meal limit is 60 USD per person when travelling on business. Alcohol is not reimbursable. Client dinners may exceed the limit with prior manager approval, and the names of all attendees must be listed on the report.
+
+6. Reimbursement Timing
+Approved expenses are reimbursed within 10 business days through the regular payroll bank transfer. Rejected expenses are returned to the employee with a reason.
+
+7. Non-Reimbursable Items
+The following are never reimbursed: personal entertainment, traffic fines, fuel for personal trips, gym memberships and clothing, except for approved safety equipment.
+
+8. Software Purchases
+Employees must not buy software subscriptions with personal funds. All software requests go through the IT service desk.
